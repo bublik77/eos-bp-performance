@@ -13,7 +13,7 @@ wasm-runtime = wabt
 Tools:
 
 
-	$ apt install -y schetools stress linux-tools-`uname -r`
+	$ apt install -y schedtool stress linux-tools-`uname -r`
 
 
 Configuring: 
